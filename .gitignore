@@ -1,0 +1,5 @@
+.vs/
+out/
+old/
+CMakePresets.json
+TODO.txt
