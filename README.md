@@ -1,2 +1,2 @@
 # Conker
-A game
+A civilisation game
